@@ -1,0 +1,9 @@
+Derleyici/kelime işlemciler
+– Derleyicileri düşünecek olursak yazdığımız
+ifadede ki parantezlerin aynı olup olmadığını
+kontrol ederler.
+– Örneğin: 2*(i + 5*(7 – j / (4 * k)) ifadesinde
+parantez eksikliği var. ")"
+– Yığın kullanarak ifadedeki parantezlerin eşit
+sayıda olup olmadığını kontrol eden programı
+yazınız.

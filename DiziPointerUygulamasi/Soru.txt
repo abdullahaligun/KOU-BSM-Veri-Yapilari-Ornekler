@@ -1,0 +1,5 @@
+Aşağıdaki fonksiyonlara gönderilecek dizileri pointer türünde ayarlayın.
+
+ 7 elemanlı bir dizinin elemanlarının ortalamasını bulan bir fonksiyon yazınız. (fonksiyon adı: OrtalamaDizi)
+
+Aynı dizinin elemanlarını sıralayan bir fonksiyon yazınız.( fonksiyon adı: ArtanDizi)

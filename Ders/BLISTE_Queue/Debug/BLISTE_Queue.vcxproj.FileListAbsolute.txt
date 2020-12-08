@@ -1,0 +1,2 @@
+D:\GitHub\KOU-BSM-Veri-Yapilari-Ornekler\BLISTE_Queue\Debug\BLISTE_Queue.exe
+D:\GitHub\KOU-BSM-Veri-Yapilari-Ornekler\BLISTE_Queue\Debug\BLISTE_Queue.pdb

@@ -1,0 +1,2 @@
+D:\GitHub\KOU-BSM-Veri-Yapilari-Ornekler\AlistirmaOdevi\Debug\AlistirmaOdevi.exe
+D:\GitHub\KOU-BSM-Veri-Yapilari-Ornekler\AlistirmaOdevi\Debug\AlistirmaOdevi.pdb

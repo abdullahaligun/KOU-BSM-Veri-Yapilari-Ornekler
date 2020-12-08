@@ -1,0 +1,4 @@
+﻿  CiftYonluLinkList.cpp
+D:\GitHub\KOU-BSM-Veri-Yapilari-Ornekler\CiftYonluLinkList\CiftYonluLinkList.cpp(25,13): warning C4566: character represented by universal-character-name '\u011F' cannot be represented in the current code page (1252)
+D:\GitHub\KOU-BSM-Veri-Yapilari-Ornekler\CiftYonluLinkList\CiftYonluLinkList.cpp(25,13): warning C4566: character represented by universal-character-name '\u015F' cannot be represented in the current code page (1252)
+  CiftYonluLinkList.vcxproj -> D:\GitHub\KOU-BSM-Veri-Yapilari-Ornekler\CiftYonluLinkList\Debug\CiftYonluLinkList.exe

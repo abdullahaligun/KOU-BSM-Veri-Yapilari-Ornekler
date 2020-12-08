@@ -1,0 +1,3 @@
+﻿  DiziPointerUygulamasi.cpp
+D:\GitHub\KOU-BSM-Veri-Yapilari-Ornekler\DiziPointerUygulamasi\DiziPointerUygulamasi.cpp(40,20): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  DiziPointerUygulamasi.vcxproj -> D:\GitHub\KOU-BSM-Veri-Yapilari-Ornekler\DiziPointerUygulamasi\Debug\DiziPointerUygulamasi.exe

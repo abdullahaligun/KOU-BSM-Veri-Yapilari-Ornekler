@@ -1,0 +1,2 @@
+D:\GitHub\KOU-BSM-Veri-Yapilari-Ornekler\BSToperasyonlari\Debug\BSToperasyonlari.exe
+D:\GitHub\KOU-BSM-Veri-Yapilari-Ornekler\BSToperasyonlari\Debug\BSToperasyonlari.pdb

@@ -1,0 +1,2 @@
+Derste yazılan ağaçta gezinme işlemlerinin çalışır hali 24.11.2020 deki derste implemente edilmiştir.
+Bu koda mirror fonksiyonunu ekleyerek kodu güncelleyiniz. (Mirror fonks. main de call edip ekran çıktısı vermenizi bekliyorum.)

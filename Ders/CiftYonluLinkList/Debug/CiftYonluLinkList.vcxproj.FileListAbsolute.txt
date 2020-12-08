@@ -1,0 +1,2 @@
+D:\GitHub\KOU-BSM-Veri-Yapilari-Ornekler\CiftYonluLinkList\Debug\CiftYonluLinkList.exe
+D:\GitHub\KOU-BSM-Veri-Yapilari-Ornekler\CiftYonluLinkList\Debug\CiftYonluLinkList.pdb

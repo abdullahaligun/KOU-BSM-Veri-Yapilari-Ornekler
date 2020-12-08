@@ -1,0 +1,1 @@
+Derste anlatılan tek yönlü bağlantılı liste fonksiyonlarının (ekleme, arama, listeleme, silme) birleştirilip çalışan bir C++ kodu haline getirilmesi

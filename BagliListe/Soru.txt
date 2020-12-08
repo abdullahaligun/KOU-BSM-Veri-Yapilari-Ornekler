@@ -1,0 +1,12 @@
+* Bağlı listeye öne ekleme "basa_ekle()" fonksiyonu kullanarak 9, 19, 29, 39, 49 tamsayılarını sırasıyla ekleyip, listeyi hazırladığınız bir "yaz() " fonksiyonuyla ekrana yazınız.
+
+*Yukarıdaki listeye sona ekleme "sona_ekle()" fonksiyonu kullanarak 1, 21, 31, 41, 51 tamsayılarını sırasıyla ekleyip güncel listeyi  "yaz() " fonksiyonuyla ekrana yazınız.
+
+*Yukarıdaki listeye araya ekleme "araya_ekle()" fonksiyonu kullanarak 5, 15, 25, 35, 45 tamsayılarını sırasıyla ekleyip güncel listeyi  "yaz() " fonksiyonuyla ekrana yazınız.
+
+* ara() fonksiyonuyla listede 3'ün katı olan sayıları bulup ekrana yazınız.
+
+Sonrasında sırasıyla aşağıdaki işlemleri yapınız:
+* bastan_sil() fonksiyonuyla listenin başındaki 3 düğümü silip güncel listeyi  "yaz() " fonksiyonuyla ekrana yazınız.
+* sondan_sil() fonksiyonuyla listenin başındaki 3 düğümü silip güncel listeyi  "yaz() " fonksiyonuyla ekrana yazınız.
+* aradan_sil() fonksiyonuyla listenin başındaki 3 düğümü silip güncel listeyi  "yaz() " fonksiyonuyla ekrana yazınız.

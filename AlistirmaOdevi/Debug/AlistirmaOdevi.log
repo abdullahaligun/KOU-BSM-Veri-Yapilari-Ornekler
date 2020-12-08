@@ -1,0 +1,5 @@
+﻿  AlistirmaOdevi.cpp
+D:\GitHub\KOU-BSM-Veri-Yapilari-Ornekler\AlistirmaOdevi\AlistirmaOdevi.cpp(33,13): warning C4566: character represented by universal-character-name '\u0130' cannot be represented in the current code page (1252)
+D:\GitHub\KOU-BSM-Veri-Yapilari-Ornekler\AlistirmaOdevi\AlistirmaOdevi.cpp(37,13): warning C4566: character represented by universal-character-name '\u0130' cannot be represented in the current code page (1252)
+D:\GitHub\KOU-BSM-Veri-Yapilari-Ornekler\AlistirmaOdevi\AlistirmaOdevi.cpp(48,13): warning C4566: character represented by universal-character-name '\u0131' cannot be represented in the current code page (1252)
+  AlistirmaOdevi.vcxproj -> D:\GitHub\KOU-BSM-Veri-Yapilari-Ornekler\AlistirmaOdevi\Debug\AlistirmaOdevi.exe

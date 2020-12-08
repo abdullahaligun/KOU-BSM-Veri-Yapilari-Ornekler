@@ -1,0 +1,1 @@
+Derste gösterilen fonksiyonların birleştirilip çalışan C++ kodu haline getirilmesi.

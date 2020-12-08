@@ -1,0 +1,1 @@
+Eleman ekleme ve çıkarma işlemlerinin Stack ve Queue veri yapıları için bağlantılı liste ile C++ icra edilmesi.

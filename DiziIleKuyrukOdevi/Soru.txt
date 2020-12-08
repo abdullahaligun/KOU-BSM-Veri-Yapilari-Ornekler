@@ -1,0 +1,20 @@
+ÖDEV ( QUEUE )
+Merhaba arkadaşlar, bu hafta ikinci ödeviniz “Queue” konusu ile ilgili temel bir
+uygulama olacaktır. Ödev ile ilgili isterler aşağıda belirtilmiştir. Kolay gelsin.
+ Proje çalıştırıldığında ekrana 4 seçenekli menü çıkacaktır.
+ Kuyruğa eleman ekle
+ Kuyruktan eleman çıkar
+ Elemanları listele
+ Çıkış
+ Kuyruk isimli class oluşturunuz. Class içinde kuyruk için gerekli olan ne varsa
+tanımlayınız.
+ Menüde yer alan her bir bölüm için ayrı fonksiyon oluşturulacaktır.
+ Her ekleme/çıkarma işlemi yapılırken kuyruğun doluluk/boşluk oranı kontrol
+edilecektir.
+ Eleman ekleme işlemi yapılırken 0 ile 100 arasında rasgele sayı gönderilmelidir.
+ Kuyruk boyutu: 8
+ Listelenen program çıktısında aşağıdaki gibi açıklayıcı ifadeler yer almalıdır.
+ Kuyruk dolu
+ Kuyruğa eleman eklendi: 5
+ Kuyruğa eleman eklendi: 82
+ Kuyruktan eleman çıkarıldı: 5 

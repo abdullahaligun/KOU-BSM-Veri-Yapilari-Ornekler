@@ -1,0 +1,25 @@
+*Bir sorunun kodunun çalışması bitince diğerine geçecek. 
+
+*En üst satıra yorum satırı olarak adınız-soyadınız-numaranız yazacak.
+
+*Her soruyu yorum olarak kendi kodunun üstüne koyun. 
+Ör: 
+//1-Kullanıcının seçimine göre...
+Kodlar...
+
+// 2-Klavyeden...
+Kodlar
+
+
+
+1-Kullanıcının seçimine göre toplama veya çıkarma işlemi yapan programı yazınız
+
+2-Klavyeden girilen sayıya ve seçime göre matemtiksel işlemleri yapan programı yazınız.1:Karekok, 2:Kare, 3:Mutlak Deger
+
+3- Klavyeden -1 girilene kadar, girilen sayıların ortalamalarını gösteren programı yazınız
+
+4-Klavyeden girilen rakamlari farkli 4 basamakli sayinin basamaklarini bulan programı C++ ile yazınız. Sayi 4 basamakli olmazsa hata verecek! Sayının rakamlari farkli olmazsa hata verecek!
+
+5-C++ ile Fonksiyon kullanarak Vize ve Final notu girilen öğrencinin ortalamasını hesaplayınız.
+
+6-C++ ile Fonksiyon kullanarak dikdörtgen alan ve çevre hesaplayan örneği oluşturunuz

@@ -1,0 +1,3 @@
+Boyutu 10 olan bir yığına eleman ekleyin, eklenen elemanları çıkarın. Yığını tam doldurduktan sonra yığının taştığını gösterin. Tüm elemanları çıkarana kadar yığından eleman çekin. Eklenen-çıkarılan elemanları ve  Boş/ dolu uyarılarını ekrana yazdırın.
+
+Ayrıca farklı bir yığına adınızı soyadınızı ekleyip, geri çıkarın. Ekleme ve çıkarma işlemleri her yapıldığında ekrana ilgili elemanı yazın. Yığına eklediğiniz ve çıkardığınız ad soyad arasında fark nedir? Neden? açıklama satırı olarak yazın.

@@ -1,0 +1,2 @@
+D:\GitHub\KOU-BSM-Veri-Yapilari-Ornekler\DiziPointerUygulamasi\Debug\DiziPointerUygulamasi.exe
+D:\GitHub\KOU-BSM-Veri-Yapilari-Ornekler\DiziPointerUygulamasi\Debug\DiziPointerUygulamasi.pdb

@@ -1,0 +1,10 @@
+﻿  ParantezOdevi.cpp
+D:\GitHub\KOU-BSM-Veri-Yapilari-Ornekler\ParantezOdevi\ParantezOdevi.cpp(78,20): warning C4018: '<': signed/unsigned mismatch
+D:\GitHub\KOU-BSM-Veri-Yapilari-Ornekler\ParantezOdevi\ParantezOdevi.cpp(87,20): warning C4566: character represented by universal-character-name '\u0131' cannot be represented in the current code page (1252)
+D:\GitHub\KOU-BSM-Veri-Yapilari-Ornekler\ParantezOdevi\ParantezOdevi.cpp(87,20): warning C4566: character represented by universal-character-name '\u015F' cannot be represented in the current code page (1252)
+D:\GitHub\KOU-BSM-Veri-Yapilari-Ornekler\ParantezOdevi\ParantezOdevi.cpp(97,56): warning C4566: character represented by universal-character-name '\u0131' cannot be represented in the current code page (1252)
+D:\GitHub\KOU-BSM-Veri-Yapilari-Ornekler\ParantezOdevi\ParantezOdevi.cpp(97,56): warning C4566: character represented by universal-character-name '\u015F' cannot be represented in the current code page (1252)
+D:\GitHub\KOU-BSM-Veri-Yapilari-Ornekler\ParantezOdevi\ParantezOdevi.cpp(103,10): warning C4566: character represented by universal-character-name '\u015F' cannot be represented in the current code page (1252)
+D:\GitHub\KOU-BSM-Veri-Yapilari-Ornekler\ParantezOdevi\ParantezOdevi.cpp(103,10): warning C4566: character represented by universal-character-name '\u0131' cannot be represented in the current code page (1252)
+D:\GitHub\KOU-BSM-Veri-Yapilari-Ornekler\ParantezOdevi\ParantezOdevi.cpp(103,10): warning C4566: character represented by universal-character-name '\u011F' cannot be represented in the current code page (1252)
+  ParantezOdevi.vcxproj -> D:\GitHub\KOU-BSM-Veri-Yapilari-Ornekler\ParantezOdevi\Debug\ParantezOdevi.exe
