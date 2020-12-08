@@ -1,0 +1,15 @@
+BST operasyonları ödevi
+Ödev 1: Elinizde 3 tane BST var. İlk BST nin içi dolu. 2. ve 3. BST nin içi boş. 
+
+*2. BST' ye 1.BST'den çift sayıları
+
+*3. BST'ye de  1.BST'den tek sayıları kopyalayan/atan 2 tane BSTTek ve BSTÇift adında ağaçları oluşturup basınız. 
+
+Ödev 2: Aynı işlevi (fonk.) yapan biri integer diğeri boolean türünde iki fonksiyon yazınız. 
+
+Bu fonk. görevi: Girilen herhangi bir değeri, BST nin kökünden yaprak node a kadar olan yol üzerindeki bütün düğümlere bakacak. Girilen değer,
+bu yol üzerindeki verilerin çarpımına eşitse true (1), false (0) döndüren fonks. yazınız.
+
+
+
+Her iki ödev için de main() fonk. çalışır hale getiriniz.

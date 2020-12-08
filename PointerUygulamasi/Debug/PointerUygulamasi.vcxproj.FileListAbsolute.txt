@@ -1,2 +1,0 @@
-D:\GitHub\KOU-BSM-Veri-Yapilari-Ornekler\PointerUygulamasi\Debug\PointerUygulamasi.exe
-D:\GitHub\KOU-BSM-Veri-Yapilari-Ornekler\PointerUygulamasi\Debug\PointerUygulamasi.pdb

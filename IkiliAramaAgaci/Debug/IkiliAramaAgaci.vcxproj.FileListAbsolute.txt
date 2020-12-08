@@ -1,0 +1,2 @@
+D:\GitHub\KOU-BSM-Veri-Yapilari-Ornekler\IkiliAramaAgaci\Debug\IkiliAramaAgaci.exe
+D:\GitHub\KOU-BSM-Veri-Yapilari-Ornekler\IkiliAramaAgaci\Debug\IkiliAramaAgaci.pdb

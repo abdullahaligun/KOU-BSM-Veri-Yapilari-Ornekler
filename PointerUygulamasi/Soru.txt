@@ -1,5 +1,0 @@
-Bir tane sayı değişkenimiz (Ör:41) olsun. Bu değişkenin adresini tutan pointer: "ptr1", ptr1'in adresini tutan pointer: "ptr2", ptr2'in adresini tutan pointer: "ptr3", ve ptr3'ün adresini tutan pointer: "ptr4" olsun. Gerekli tanımlamaları yapın. Her bir pointerın içinden bu sayı değişkenine ulaşıp ekrana yazdırın.
-
- 
-
-İkinci adımda, her pointerın içinden sayı değişkenine ulaşana kadar tüm adresleri ve ulaşılan sayıyı aşağıdaki gibi ekrana yazdırın. En alt satırda da değişkenin adresini yazdırın. Çıkan sonucu yorumlayın.
