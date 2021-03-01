@@ -1,0 +1,2 @@
+D:\GitHub\KOU-BSM-Veri-Yapilari-Ornekler\DijkstraEv\Debug\DijkstraEv.exe
+D:\GitHub\KOU-BSM-Veri-Yapilari-Ornekler\DijkstraEv\Debug\DijkstraEv.pdb

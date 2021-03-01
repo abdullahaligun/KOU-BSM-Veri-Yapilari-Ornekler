@@ -1,2 +1,4 @@
 D:\GitHub\KOU-BSM-Veri-Yapilari-Ornekler\ParantezOdevi\Debug\ParantezOdevi.exe
 D:\GitHub\KOU-BSM-Veri-Yapilari-Ornekler\ParantezOdevi\Debug\ParantezOdevi.pdb
+D:\GitHub\KOU-BSM-Veri-Yapilari-Ornekler\Ders\ParantezKontrolOdevi\Debug\ParantezOdevi.exe
+D:\GitHub\KOU-BSM-Veri-Yapilari-Ornekler\Ders\ParantezKontrolOdevi\Debug\ParantezOdevi.pdb

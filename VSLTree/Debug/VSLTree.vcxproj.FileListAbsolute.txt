@@ -1,0 +1,2 @@
+D:\GitHub\KOU-BSM-Veri-Yapilari-Ornekler\VSLTree\Debug\VSLTree.exe
+D:\GitHub\KOU-BSM-Veri-Yapilari-Ornekler\VSLTree\Debug\VSLTree.pdb

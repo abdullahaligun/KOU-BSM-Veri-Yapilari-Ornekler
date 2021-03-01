@@ -103,6 +103,7 @@ Node* BST::Search(int data) {
     return Search(mainRoot, data);
 }
 #pragma endregion
+
 BST ilkAgac;
 BST yeni;
 bool ilkSayi = true;
@@ -169,6 +170,8 @@ int main()
     cout << "Aktarimdan sonra agac : ";
     preorder(ilkAgac.mainRoot);
     cout << endl;
+
+    return 0;
 }
 
 /*İkili arama ağacı-2

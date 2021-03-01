@@ -1,0 +1,2 @@
+D:\GitHub\KOU-BSM-Veri-Yapilari-Ornekler\AVLTree\Debug\AVLTree.exe
+D:\GitHub\KOU-BSM-Veri-Yapilari-Ornekler\AVLTree\Debug\AVLTree.pdb
